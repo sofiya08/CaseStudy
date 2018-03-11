@@ -1,4 +1,5 @@
 # CaseStudy
+Libraries used: Bootstrap 3.2
 The principles my design adheres to are
 -Aesthetic and Minimalist design: The product page layout does not contain unnecessary or distracting details making sure the user can focus on the products only leading to lesser cognitive load.
 -Consistency and standards: The same fonts are used for each card, the placement of the buttons remains the same as well in order to ease the learnability. The harder it gets for the user to learn your design, the lesser conversion rates it brings in.
